@@ -6,4 +6,4 @@
 
 > [See Project ->](https://signup-ui.vercel.app/)
 
-![Image Sign up UI](https://github.com/Pedro-Murilo/dailyui/blob/main/.github/Capa.png)
+![Image Sign up UI](https://github.com/Pedro-Murilo/dailyui/blob/main/.github/signup-thumbnail.png)
